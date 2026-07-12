@@ -4,7 +4,7 @@
 - Distribuído oficialmente via APK
 
 ### Como baixar:
-- Acesse a página de release: [**AQUI**](https://github.com/felipemaders8/calc_recursos_hidricos/releases/download/calculadora_recursos_hidricos/Calc_Hidrica.apk)
+- Acesse a página de release: [**AQUI**](https://github.com/felipemaders8/calc_recursos_hidricos/releases/tag/calculadora_recursos_hidricos)
 - Instale o APK e execute no seu aparelho.
 
 fmaders@pm.me\
